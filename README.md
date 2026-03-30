@@ -1,6 +1,6 @@
 # android-archive-wallpapers
 
-This repository serves as the dedicated image hosting Content Delivery Network (CDN) for the **Android Archive** mobile app, developed by Himanshu. 
+This repository serves as the dedicated image hosting Content Delivery Network (CDN) for the **Android Archive** mobile app. 
 
 Because the app functions as an offline-first, historical museum of the Android operating system, this repository is used to dynamically host high-resolution wallpapers without bloating the initial app download size on the Google Play Store.
 
